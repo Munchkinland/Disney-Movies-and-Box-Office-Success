@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 movie_title,release_date,genre,MPAA_rating,total_gross,inflation_adjusted_gross,character,voice-actor,director,release_year
 Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485.0,5228953251.0,Bashful,Scotty Mattraw,David Hand,1937
 Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485.0,5228953251.0,Doc,Roy Atwell,David Hand,1937
@@ -640,3 +641,647 @@ Moana,2016-11-23,Adventure,PG,246082029.0,246082029.0,Tamatoa,Jemaine Clement,Ro
 Moana,2016-11-23,Adventure,PG,246082029.0,246082029.0,Tui Waialiki,Temuera Morrison,Ron Clements,2016
 The Many Adventures of Winnie the Pooh,1977-03-11,Desconocido,Desconocido,0.0,0.0,Desconocido,Desconocido,Wolfgang Reitherman,1977
 Winnie the Pooh,2011-07-15,Adventure,G,26692846.0,28375869.0,Desconocido,Desconocido,Stephen J. Anderson,2011
+=======
+movie_title,release_date,genre,MPAA_rating,total_gross,inflation_adjusted_gross,character,voice-actor,director,release_year
+Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485.0,5228953251.0,Bashful,Scotty Mattraw,David Hand,1937
+Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485.0,5228953251.0,Doc,Roy Atwell,David Hand,1937
+Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485.0,5228953251.0,Dopey,Eddie Collins,David Hand,1937
+Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485.0,5228953251.0,Grumpy,Pinto Colvig,David Hand,1937
+Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485.0,5228953251.0,Happy,Otis Harlan,David Hand,1937
+Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485.0,5228953251.0,Humbert the Huntsman,Stuart Buchanan,David Hand,1937
+Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485.0,5228953251.0,The Magic Mirror,Moroni Olsen,David Hand,1937
+Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485.0,5228953251.0,Prince,Harry Stockwell,David Hand,1937
+Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485.0,5228953251.0,Queen Grimhilde,Lucille La Verne,David Hand,1937
+Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485.0,5228953251.0,Sleepy,Pinto Colvig,David Hand,1937
+Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485.0,5228953251.0,Sneezy,Billy Gilbert,David Hand,1937
+Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485.0,5228953251.0,Snow White,Adriana Caselotti,David Hand,1937
+Pinocchio,1940-02-09,Adventure,G,84300000.0,2188229052.0,Blue Fairy,Evelyn Venable,Ben Sharpsteen,1940
+Pinocchio,1940-02-09,Adventure,G,84300000.0,2188229052.0,Cleo,Desconocido,Ben Sharpsteen,1940
+Pinocchio,1940-02-09,Adventure,G,84300000.0,2188229052.0,The Coachman,Charles Judels,Ben Sharpsteen,1940
+Pinocchio,1940-02-09,Adventure,G,84300000.0,2188229052.0,Figaro the Cat,Mel Blanc,Ben Sharpsteen,1940
+Pinocchio,1940-02-09,Adventure,G,84300000.0,2188229052.0,Geppetto,Christian Rub,Ben Sharpsteen,1940
+Pinocchio,1940-02-09,Adventure,G,84300000.0,2188229052.0,Gideon,Mel Blanc,Ben Sharpsteen,1940
+Pinocchio,1940-02-09,Adventure,G,84300000.0,2188229052.0,J. Worthington Foulfellow,Walter Catlett,Ben Sharpsteen,1940
+Pinocchio,1940-02-09,Adventure,G,84300000.0,2188229052.0,Jiminy Cricket,Cliff Edwards; Eddie Carroll,Ben Sharpsteen,1940
+Pinocchio,1940-02-09,Adventure,G,84300000.0,2188229052.0,Lampwick,Frankie Darro,Ben Sharpsteen,1940
+Pinocchio,1940-02-09,Adventure,G,84300000.0,2188229052.0,Monstro,Thurl Ravenscroft,Ben Sharpsteen,1940
+Pinocchio,1940-02-09,Adventure,G,84300000.0,2188229052.0,Pinocchio,Dickie Jones,Ben Sharpsteen,1940
+Pinocchio,1940-02-09,Adventure,G,84300000.0,2188229052.0,Stromboli,Charles Judels,Ben Sharpsteen,1940
+Fantasia,1940-11-13,Musical,G,83320000.0,2187090808.0,Ben Ali Gator,Jim Cummings,full credits,1940
+Fantasia,1940-11-13,Musical,G,83320000.0,2187090808.0,Chernabog,Corey Burton,full credits,1940
+Fantasia,1940-11-13,Musical,G,83320000.0,2187090808.0,Hyacinth Hippo,Tress MacNeille,full credits,1940
+Fantasia,1940-11-13,Musical,G,83320000.0,2187090808.0,Madame Upanova,Tress MacNeille,full credits,1940
+Fantasia,1940-11-13,Musical,G,83320000.0,2187090808.0,Melinda,Desconocido,full credits,1940
+Fantasia,1940-11-13,Musical,G,83320000.0,2187090808.0,Yen Sid,Corey Burton,full credits,1940
+Song of the South,1946-11-12,Adventure,G,65000000.0,1078510579.0,Br'er Bear,Nick Stewart,Desconocido,1946
+Song of the South,1946-11-12,Adventure,G,65000000.0,1078510579.0,Br'er Fox,James Baskett,Desconocido,1946
+Song of the South,1946-11-12,Adventure,G,65000000.0,1078510579.0,Br'er Rabbit,Johnny Lee,Desconocido,1946
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,Anastasia Tremaine,Lucille Bliss,Wilfred Jackson,1950
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,Bruno the Dog,Jimmy MacDonald; Frank Welker,Wilfred Jackson,1950
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,Cinderella,Ilene Woods,Wilfred Jackson,1950
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,The Doorman,Don Barclay,Wilfred Jackson,1950
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,Drizella Tremaine,Rhoda Williams; Russi Taylor,Wilfred Jackson,1950
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,Fairy Godmother,Verna Felton; Russi Taylor,Wilfred Jackson,1950
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,Footman,Larry Grey,Wilfred Jackson,1950
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,The Grand Duke,Luis Van Rooten; Rob Paulsen,Wilfred Jackson,1950
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,Gus Lollygagger,Jimmy MacDonald; Corey Burton,Wilfred Jackson,1950
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,"Jackson ""Jaq"" Hopscotch",Jimmy MacDonald; Rob Paulsen,Wilfred Jackson,1950
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,The King,Luis Van Rooten,Wilfred Jackson,1950
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,Lady Tremaine,Eleanor Audley; Susanne Blakeslee,Wilfred Jackson,1950
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,Lucifer the Cat,June Foray,Wilfred Jackson,1950
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,Major the Horse,Desconocido,Wilfred Jackson,1950
+Cinderella,1950-02-15,Drama,G,85000000.0,920608730.0,Prince Charming,William Phipps,Wilfred Jackson,1950
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,Anastasia Tremaine,Lucille Bliss,Wilfred Jackson,2015
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,Bruno the Dog,Jimmy MacDonald; Frank Welker,Wilfred Jackson,2015
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,Cinderella,Ilene Woods,Wilfred Jackson,2015
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,The Doorman,Don Barclay,Wilfred Jackson,2015
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,Drizella Tremaine,Rhoda Williams; Russi Taylor,Wilfred Jackson,2015
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,Fairy Godmother,Verna Felton; Russi Taylor,Wilfred Jackson,2015
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,Footman,Larry Grey,Wilfred Jackson,2015
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,The Grand Duke,Luis Van Rooten; Rob Paulsen,Wilfred Jackson,2015
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,Gus Lollygagger,Jimmy MacDonald; Corey Burton,Wilfred Jackson,2015
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,"Jackson ""Jaq"" Hopscotch",Jimmy MacDonald; Rob Paulsen,Wilfred Jackson,2015
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,The King,Luis Van Rooten,Wilfred Jackson,2015
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,Lady Tremaine,Eleanor Audley; Susanne Blakeslee,Wilfred Jackson,2015
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,Lucifer the Cat,June Foray,Wilfred Jackson,2015
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,Major the Horse,Desconocido,Wilfred Jackson,2015
+Cinderella,2015-03-13,Drama,PG,201151353.0,201151353.0,Prince Charming,William Phipps,Wilfred Jackson,2015
+Lady and the Tramp,1955-06-22,Drama,G,93600000.0,1236035515.0,Al the Alligator,Thurl Ravenscroft,Hamilton Luske,1955
+Lady and the Tramp,1955-06-22,Drama,G,93600000.0,1236035515.0,Aunt Sarah,Verna Felton,Hamilton Luske,1955
+Lady and the Tramp,1955-06-22,Drama,G,93600000.0,1236035515.0,Beaver,Stan Freberg,Hamilton Luske,1955
+Lady and the Tramp,1955-06-22,Drama,G,93600000.0,1236035515.0,Darling,Peggy Lee,Hamilton Luske,1955
+Lady and the Tramp,1955-06-22,Drama,G,93600000.0,1236035515.0,Jim Dear,Lee Millar,Hamilton Luske,1955
+Lady and the Tramp,1955-06-22,Drama,G,93600000.0,1236035515.0,Jock,Bill Thompson,Hamilton Luske,1955
+Lady and the Tramp,1955-06-22,Drama,G,93600000.0,1236035515.0,Lady,Barbara Luddy,Hamilton Luske,1955
+Lady and the Tramp,1955-06-22,Drama,G,93600000.0,1236035515.0,Peg,Peggy Lee,Hamilton Luske,1955
+Lady and the Tramp,1955-06-22,Drama,G,93600000.0,1236035515.0,Si & Am,Peggy Lee,Hamilton Luske,1955
+Lady and the Tramp,1955-06-22,Drama,G,93600000.0,1236035515.0,Tramp,Larry Roberts,Hamilton Luske,1955
+Lady and the Tramp,1955-06-22,Drama,G,93600000.0,1236035515.0,Trusty,Bill Baucom,Hamilton Luske,1955
+Sleeping Beauty,1959-01-29,Drama,Desconocido,9464608.0,21505832.0,Aurora,Mary Costa,Clyde Geronimi,1959
+Sleeping Beauty,1959-01-29,Drama,Desconocido,9464608.0,21505832.0,Diablo,Desconocido,Clyde Geronimi,1959
+Sleeping Beauty,1959-01-29,Drama,Desconocido,9464608.0,21505832.0,Fauna,Barbara Jo Allen,Clyde Geronimi,1959
+Sleeping Beauty,1959-01-29,Drama,Desconocido,9464608.0,21505832.0,Flora,Verna Felton,Clyde Geronimi,1959
+Sleeping Beauty,1959-01-29,Drama,Desconocido,9464608.0,21505832.0,King Hubert,Bill Thompson,Clyde Geronimi,1959
+Sleeping Beauty,1959-01-29,Drama,Desconocido,9464608.0,21505832.0,King Stefan,Taylor Holmes,Clyde Geronimi,1959
+Sleeping Beauty,1959-01-29,Drama,Desconocido,9464608.0,21505832.0,Maleficent,Eleanor Audley,Clyde Geronimi,1959
+Sleeping Beauty,1959-01-29,Drama,Desconocido,9464608.0,21505832.0,Merryweather,Barbara Luddy,Clyde Geronimi,1959
+Sleeping Beauty,1959-01-29,Drama,Desconocido,9464608.0,21505832.0,Prince Phillip,Bill Shirley,Clyde Geronimi,1959
+Sleeping Beauty,1959-01-29,Drama,Desconocido,9464608.0,21505832.0,Queen Leah,Barbara Dirikson,Clyde Geronimi,1959
+101 Dalmatians,1961-01-25,Comedy,G,153000000.0,1362870985.0,Anita Radcliffe,Lisa Davis,Wolfgang Reitherman,1961
+101 Dalmatians,1961-01-25,Comedy,G,153000000.0,1362870985.0,The Colonel,J. Pat O'Malley,Wolfgang Reitherman,1961
+101 Dalmatians,1961-01-25,Comedy,G,153000000.0,1362870985.0,Cruella de Vil,Betty Lou Gerson,Wolfgang Reitherman,1961
+101 Dalmatians,1961-01-25,Comedy,G,153000000.0,1362870985.0,Horace & Jasper,Frederick Worlock; J. Pat O'Malley,Wolfgang Reitherman,1961
+101 Dalmatians,1961-01-25,Comedy,G,153000000.0,1362870985.0,Perdita,Cate Bauer,Wolfgang Reitherman,1961
+101 Dalmatians,1961-01-25,Comedy,G,153000000.0,1362870985.0,Pongo,Rod Taylor,Wolfgang Reitherman,1961
+101 Dalmatians,1961-01-25,Comedy,G,153000000.0,1362870985.0,Roger Radcliffe,Ben Wright,Wolfgang Reitherman,1961
+101 Dalmatians,1961-01-25,Comedy,G,153000000.0,1362870985.0,Sgt. Tibbs,David Frankham,Wolfgang Reitherman,1961
+101 Dalmatians,1996-11-27,Comedy,G,136189294.0,258728898.0,Anita Radcliffe,Lisa Davis,Wolfgang Reitherman,1996
+101 Dalmatians,1996-11-27,Comedy,G,136189294.0,258728898.0,The Colonel,J. Pat O'Malley,Wolfgang Reitherman,1996
+101 Dalmatians,1996-11-27,Comedy,G,136189294.0,258728898.0,Cruella de Vil,Betty Lou Gerson,Wolfgang Reitherman,1996
+101 Dalmatians,1996-11-27,Comedy,G,136189294.0,258728898.0,Horace & Jasper,Frederick Worlock; J. Pat O'Malley,Wolfgang Reitherman,1996
+101 Dalmatians,1996-11-27,Comedy,G,136189294.0,258728898.0,Perdita,Cate Bauer,Wolfgang Reitherman,1996
+101 Dalmatians,1996-11-27,Comedy,G,136189294.0,258728898.0,Pongo,Rod Taylor,Wolfgang Reitherman,1996
+101 Dalmatians,1996-11-27,Comedy,G,136189294.0,258728898.0,Roger Radcliffe,Ben Wright,Wolfgang Reitherman,1996
+101 Dalmatians,1996-11-27,Comedy,G,136189294.0,258728898.0,Sgt. Tibbs,David Frankham,Wolfgang Reitherman,1996
+The Sword in the Stone,1963-12-25,Adventure,Desconocido,22182353.0,153870834.0,Archimedes,Junius Matthews,Wolfgang Reitherman,1963
+The Sword in the Stone,1963-12-25,Adventure,Desconocido,22182353.0,153870834.0,Arthur/Wart,Rickie Sorensen,Wolfgang Reitherman,1963
+The Sword in the Stone,1963-12-25,Adventure,Desconocido,22182353.0,153870834.0,Arthur/Wart,Richard Reitherman,Wolfgang Reitherman,1963
+The Sword in the Stone,1963-12-25,Adventure,Desconocido,22182353.0,153870834.0,Arthur/Wart,Robert Reitherman,Wolfgang Reitherman,1963
+The Sword in the Stone,1963-12-25,Adventure,Desconocido,22182353.0,153870834.0,Black Bart,Thurl Ravenscroft,Wolfgang Reitherman,1963
+The Sword in the Stone,1963-12-25,Adventure,Desconocido,22182353.0,153870834.0,Madam Mim,Martha Wentworth,Wolfgang Reitherman,1963
+The Sword in the Stone,1963-12-25,Adventure,Desconocido,22182353.0,153870834.0,Merlin,Karl Swenson,Wolfgang Reitherman,1963
+The Sword in the Stone,1963-12-25,Adventure,Desconocido,22182353.0,153870834.0,Sir Ector,Sebastian Cabot,Wolfgang Reitherman,1963
+The Sword in the Stone,1963-12-25,Adventure,Desconocido,22182353.0,153870834.0,Sir Kay,Norman Alden,Wolfgang Reitherman,1963
+The Sword in the Stone,1963-12-25,Adventure,Desconocido,22182353.0,153870834.0,Sir Pellinore,Alan Napier,Wolfgang Reitherman,1963
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Akela,John Abbott,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Bagheera,Sebastian Cabot,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Baloo Bear,Phil Harris,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Buzzie the Vulture,J. Pat O'Malley,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Colonel Hathi,J. Pat O'Malley,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Dizzie the Vulture,Lord Tim Hudson,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Father Wolf,Ben Wright,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Flaps the Vulture,Chad Stuart,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Flunkey the Baboon,Leo De Lyon,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Junior,Clint Howard,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Kaa,Sterling Holloway; Jim Cummings,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,King Louie,Louis Prima,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Mowgli,Bruce Reitherman,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Shanti (The Girl),Darleen Carr,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Shere Khan,George Sanders,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Winifred the Elephant,Verna Felton,Wolfgang Reitherman,1967
+The Jungle Book,1967-10-18,Musical,Not Rated,141843000.0,789612346.0,Ziggy the Vulture,Digby Wolfe,Wolfgang Reitherman,1967
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Akela,John Abbott,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Bagheera,Sebastian Cabot,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Baloo Bear,Phil Harris,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Buzzie the Vulture,J. Pat O'Malley,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Colonel Hathi,J. Pat O'Malley,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Dizzie the Vulture,Lord Tim Hudson,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Father Wolf,Ben Wright,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Flaps the Vulture,Chad Stuart,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Flunkey the Baboon,Leo De Lyon,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Junior,Clint Howard,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Kaa,Sterling Holloway; Jim Cummings,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,King Louie,Louis Prima,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Mowgli,Bruce Reitherman,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Shanti (The Girl),Darleen Carr,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Shere Khan,George Sanders,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Winifred the Elephant,Verna Felton,Wolfgang Reitherman,1994
+The Jungle Book,1994-12-25,Adventure,PG,44342956.0,88930321.0,Ziggy the Vulture,Digby Wolfe,Wolfgang Reitherman,1994
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Akela,John Abbott,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Bagheera,Sebastian Cabot,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Baloo Bear,Phil Harris,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Buzzie the Vulture,J. Pat O'Malley,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Colonel Hathi,J. Pat O'Malley,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Dizzie the Vulture,Lord Tim Hudson,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Father Wolf,Ben Wright,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Flaps the Vulture,Chad Stuart,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Flunkey the Baboon,Leo De Lyon,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Junior,Clint Howard,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Kaa,Sterling Holloway; Jim Cummings,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,King Louie,Louis Prima,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Mowgli,Bruce Reitherman,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Shanti (The Girl),Darleen Carr,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Shere Khan,George Sanders,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Winifred the Elephant,Verna Felton,Wolfgang Reitherman,2016
+The Jungle Book,2016-04-15,Adventure,PG,364001123.0,364001123.0,Ziggy the Vulture,Digby Wolfe,Wolfgang Reitherman,2016
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Abigail Gabble,Monica Evans,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Amelia Gabble,Carole Shelley,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Berlioz,Dean Clark,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Billy Boss,Thurl Ravenscroft,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Duchess,Eva Gabor,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Edgar Balthazar the Butler,Roddy Maude-Roxby,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Frou-Frou,Nancy Kulp,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Georges Hautecourt,Charles Lane,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Hit Cat the English Cat,Lord Tim Hudson,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Lafayette the Basset Hound,George Lindsey,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Madame Adelaide Bonfamille,Hermione Baddeley,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Marie,Liz English,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Napoleon the Bloodhound,Pat Buttram,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Peppo the Italian Cat,Vito Scotti,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Roquefort the Mouse,Sterling Holloway,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Scat Cat,Scatman Crothers,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Shun Gon the Chinese Cat,Paul Winchell,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Thomas O'Malley,Phil Harris,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Toulouse,Gary Dubin,Wolfgang Reitherman,1970
+The Aristocats,1970-04-24,Musical,G,55675257.0,255161499.0,Uncle Waldo,Bill Thompson,Wolfgang Reitherman,1970
+Bedknobs and Broomsticks,1971-10-07,Musical,Desconocido,17871174.0,91305448.0,Bear,Dal McKennon,Desconocido,1971
+Bedknobs and Broomsticks,1971-10-07,Musical,Desconocido,17871174.0,91305448.0,Codfish,Robert Holt,Desconocido,1971
+Bedknobs and Broomsticks,1971-10-07,Musical,Desconocido,17871174.0,91305448.0,King Leonidas,Lennie Weinrib,Desconocido,1971
+Bedknobs and Broomsticks,1971-10-07,Musical,Desconocido,17871174.0,91305448.0,Secretary Bird,Lennie Weinrib,Desconocido,1971
+The Rescuers,1977-06-22,Adventure,Desconocido,48775599.0,159743914.0,Bernard,Bob Newheart,Wolfgang Reitherman,1977
+The Rescuers,1977-06-22,Adventure,Desconocido,48775599.0,159743914.0,Brutus and Nero,Candy Candido,Wolfgang Reitherman,1977
+The Rescuers,1977-06-22,Adventure,Desconocido,48775599.0,159743914.0,Chair Mouse,Bernard Fox,Wolfgang Reitherman,1977
+The Rescuers,1977-06-22,Adventure,Desconocido,48775599.0,159743914.0,Digger the Mole,Dub Taylor,Wolfgang Reitherman,1977
+The Rescuers,1977-06-22,Adventure,Desconocido,48775599.0,159743914.0,Ellie Mae,Jeanette Nolan,Wolfgang Reitherman,1977
+The Rescuers,1977-06-22,Adventure,Desconocido,48775599.0,159743914.0,Evinrude,Jimmy MacDonald,Wolfgang Reitherman,1977
+The Rescuers,1977-06-22,Adventure,Desconocido,48775599.0,159743914.0,Gramps,Larry Clemmons,Wolfgang Reitherman,1977
+The Rescuers,1977-06-22,Adventure,Desconocido,48775599.0,159743914.0,Luke,Pat Buttram,Wolfgang Reitherman,1977
+The Rescuers,1977-06-22,Adventure,Desconocido,48775599.0,159743914.0,Madame Medusa,Geraldine Page,Wolfgang Reitherman,1977
+The Rescuers,1977-06-22,Adventure,Desconocido,48775599.0,159743914.0,Miss Bianca,Eva Gabor,Wolfgang Reitherman,1977
+The Rescuers,1977-06-22,Adventure,Desconocido,48775599.0,159743914.0,Mr. Snoops,Joe Flynn,Wolfgang Reitherman,1977
+The Rescuers,1977-06-22,Adventure,Desconocido,48775599.0,159743914.0,Orville,Jim Jordan,Wolfgang Reitherman,1977
+The Rescuers,1977-06-22,Adventure,Desconocido,48775599.0,159743914.0,Penny,Michelle Stacy,Wolfgang Reitherman,1977
+The Rescuers,1977-06-22,Adventure,Desconocido,48775599.0,159743914.0,Rufus,John McIntire,Wolfgang Reitherman,1977
+The Fox and the Hound,1981-07-10,Comedy,Desconocido,43899231.0,133118889.0,Amos Slade,Jack Albertson,Art Stevens,1981
+The Fox and the Hound,1981-07-10,Comedy,Desconocido,43899231.0,133118889.0,Big Mama,Pearl Bailey,Art Stevens,1981
+The Fox and the Hound,1981-07-10,Comedy,Desconocido,43899231.0,133118889.0,Boomer,Paul Winchell,Art Stevens,1981
+The Fox and the Hound,1981-07-10,Comedy,Desconocido,43899231.0,133118889.0,Chief,Pat Buttram,Art Stevens,1981
+The Fox and the Hound,1981-07-10,Comedy,Desconocido,43899231.0,133118889.0,Copper,Corey Feldman; Kurt Russell,Art Stevens,1981
+The Fox and the Hound,1981-07-10,Comedy,Desconocido,43899231.0,133118889.0,Dinky,Richard Bakalyan,Art Stevens,1981
+The Fox and the Hound,1981-07-10,Comedy,Desconocido,43899231.0,133118889.0,Squeaks the Caterpillar,Desconocido,Art Stevens,1981
+The Fox and the Hound,1981-07-10,Comedy,Desconocido,43899231.0,133118889.0,Tod,Keith Coogan; Mickey Rooney,Art Stevens,1981
+The Fox and the Hound,1981-07-10,Comedy,Desconocido,43899231.0,133118889.0,Vixey,Sandy Duncan,Art Stevens,1981
+The Fox and the Hound,1981-07-10,Comedy,Desconocido,43899231.0,133118889.0,Widow Tweed,Jeanette Nolan,Art Stevens,1981
+The Black Cauldron,1985-07-24,Adventure,Desconocido,21288692.0,50553142.0,Creeper,Phil Fondacaro,Ted Berman,1985
+The Black Cauldron,1985-07-24,Adventure,Desconocido,21288692.0,50553142.0,Dallben,Freddie Jones,Ted Berman,1985
+The Black Cauldron,1985-07-24,Adventure,Desconocido,21288692.0,50553142.0,Doli,John Byner,Ted Berman,1985
+The Black Cauldron,1985-07-24,Adventure,Desconocido,21288692.0,50553142.0,Fflewddur Fflam,Nigel Hawthorne,Ted Berman,1985
+The Black Cauldron,1985-07-24,Adventure,Desconocido,21288692.0,50553142.0,Gurgi,John Byner,Ted Berman,1985
+The Black Cauldron,1985-07-24,Adventure,Desconocido,21288692.0,50553142.0,Hen Wen,Desconocido,Ted Berman,1985
+The Black Cauldron,1985-07-24,Adventure,Desconocido,21288692.0,50553142.0,The Horned King,John Hurt,Ted Berman,1985
+The Black Cauldron,1985-07-24,Adventure,Desconocido,21288692.0,50553142.0,King Eiddileg,Arthur Malet,Ted Berman,1985
+The Black Cauldron,1985-07-24,Adventure,Desconocido,21288692.0,50553142.0,Orddu,Eda Reiss Merin,Ted Berman,1985
+The Black Cauldron,1985-07-24,Adventure,Desconocido,21288692.0,50553142.0,Orgoch,Billie Hayes,Ted Berman,1985
+The Black Cauldron,1985-07-24,Adventure,Desconocido,21288692.0,50553142.0,Orwen,Adele Malis-Morey,Ted Berman,1985
+The Black Cauldron,1985-07-24,Adventure,Desconocido,21288692.0,50553142.0,Princess Eilonwy,Susan Sheridan,Ted Berman,1985
+The Black Cauldron,1985-07-24,Adventure,Desconocido,21288692.0,50553142.0,Taran,Grant Bardsley,Ted Berman,1985
+The Great Mouse Detective,1986-07-02,Adventure,Desconocido,23605534.0,53637367.0,Bartholomew,Barrie Ingham,Ron Clements,1986
+The Great Mouse Detective,1986-07-02,Adventure,Desconocido,23605534.0,53637367.0,Basil of Baker Street,Barrie Ingham,Ron Clements,1986
+The Great Mouse Detective,1986-07-02,Adventure,Desconocido,23605534.0,53637367.0,Dr. David Q. Dawson,Val Bettin,Ron Clements,1986
+The Great Mouse Detective,1986-07-02,Adventure,Desconocido,23605534.0,53637367.0,Felicia the Cat,Frank Welker,Ron Clements,1986
+The Great Mouse Detective,1986-07-02,Adventure,Desconocido,23605534.0,53637367.0,Fidget,Candy Candido,Ron Clements,1986
+The Great Mouse Detective,1986-07-02,Adventure,Desconocido,23605534.0,53637367.0,Hiram Flaversham,Alan Young; Alan Young,Ron Clements,1986
+The Great Mouse Detective,1986-07-02,Adventure,Desconocido,23605534.0,53637367.0,Lady Mouse,Shani Wallis,Ron Clements,1986
+The Great Mouse Detective,1986-07-02,Adventure,Desconocido,23605534.0,53637367.0,Miss Kitty,Melissa Manchester,Ron Clements,1986
+The Great Mouse Detective,1986-07-02,Adventure,Desconocido,23605534.0,53637367.0,Mrs. Judson,Diana Chesney,Ron Clements,1986
+The Great Mouse Detective,1986-07-02,Adventure,Desconocido,23605534.0,53637367.0,Olivia Flaversham,Susanne Pollatschek,Ron Clements,1986
+The Great Mouse Detective,1986-07-02,Adventure,Desconocido,23605534.0,53637367.0,Professor Ratigan,Vincent Price,Ron Clements,1986
+The Great Mouse Detective,1986-07-02,Adventure,Desconocido,23605534.0,53637367.0,Queen Mousetoria,Eve Brenner,Ron Clements,1986
+The Great Mouse Detective,1986-07-02,Adventure,Desconocido,23605534.0,53637367.0,Toby the Dog,Frank Welker,Ron Clements,1986
+Oliver & Company,1988-11-18,Adventure,G,49576671.0,102254492.0,DeSoto,Carl Weintraub,George Scribner,1988
+Oliver & Company,1988-11-18,Adventure,G,49576671.0,102254492.0,Dodger,Billy Joel,George Scribner,1988
+Oliver & Company,1988-11-18,Adventure,G,49576671.0,102254492.0,Einstein,Richard Mulligan,George Scribner,1988
+Oliver & Company,1988-11-18,Adventure,G,49576671.0,102254492.0,Fagin,Dom DeLuise,George Scribner,1988
+Oliver & Company,1988-11-18,Adventure,G,49576671.0,102254492.0,Francis,Roscoe Lee Browne,George Scribner,1988
+Oliver & Company,1988-11-18,Adventure,G,49576671.0,102254492.0,Georgette,Bette Midler,George Scribner,1988
+Oliver & Company,1988-11-18,Adventure,G,49576671.0,102254492.0,"Jennifer ""Jenny"" Foxworth",Natalie Gregory,George Scribner,1988
+Oliver & Company,1988-11-18,Adventure,G,49576671.0,102254492.0,Louie the Hot Dog Man,Frank Welker,George Scribner,1988
+Oliver & Company,1988-11-18,Adventure,G,49576671.0,102254492.0,Oliver,Joey Lawrence,George Scribner,1988
+Oliver & Company,1988-11-18,Adventure,G,49576671.0,102254492.0,Rita,Sheryl Lee Ralph,George Scribner,1988
+Oliver & Company,1988-11-18,Adventure,G,49576671.0,102254492.0,Roscoe,Taurean Blacque,George Scribner,1988
+Oliver & Company,1988-11-18,Adventure,G,49576671.0,102254492.0,Sykes,Robert Loggia,George Scribner,1988
+Oliver & Company,1988-11-18,Adventure,G,49576671.0,102254492.0,Tito,Cheech Marin,George Scribner,1988
+Oliver & Company,1988-11-18,Adventure,G,49576671.0,102254492.0,Winston,William Glover,George Scribner,1988
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Adella,Sherry Lynn,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Alana,Kimmy Robertson,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Andrina,Tara Strong,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Aquata,Grey DeLisle; Mona Marshall,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Ariel,Jodi Benson,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Arista,Kimmy Robertson,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Attina,Kari Wahlgren,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Carlotta the Maid,Edie McClurg,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Chef Louis,Rene Auberjonois,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Flotsam and Jetsam,Paddi Edwards,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Flounder,Jason Marin,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Grimsby,Ben Wright,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Harold the Seahorse,Will Ryan,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,King Triton,Kenneth Mars,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Max the Sheepdog,Frank Welker,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Prince Eric,Christopher Daniel Barnes,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Scuttle,Buddy Hackett,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Sebastian,Samuel E. Wright,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Ursula,Pat Carroll,Ron Clements,1989
+The Little Mermaid,1989-11-15,Adventure,G,111543479.0,223726012.0,Vanessa (The Little Mermaid),Pat Carroll; Jodi Benson,Ron Clements,1989
+The Rescuers Down Under,1990-11-16,Adventure,G,27931461.0,55796728.0,Cody,Adam Ryen,Mike Gabriel,1990
+The Rescuers Down Under,1990-11-16,Adventure,G,27931461.0,55796728.0,Doctor Mouse,Bernard Fox,Mike Gabriel,1990
+The Rescuers Down Under,1990-11-16,Adventure,G,27931461.0,55796728.0,Faloo,Carla Meyer,Mike Gabriel,1990
+The Rescuers Down Under,1990-11-16,Adventure,G,27931461.0,55796728.0,Francois,Ed Gilbert,Mike Gabriel,1990
+The Rescuers Down Under,1990-11-16,Adventure,G,27931461.0,55796728.0,Frank,Wayne Robson,Mike Gabriel,1990
+The Rescuers Down Under,1990-11-16,Adventure,G,27931461.0,55796728.0,Jake,Tristan Rogers,Mike Gabriel,1990
+The Rescuers Down Under,1990-11-16,Adventure,G,27931461.0,55796728.0,Krebbs,Douglas Seale,Mike Gabriel,1990
+The Rescuers Down Under,1990-11-16,Adventure,G,27931461.0,55796728.0,Marahute,Frank Welker,Mike Gabriel,1990
+The Rescuers Down Under,1990-11-16,Adventure,G,27931461.0,55796728.0,Nurse Mouse,Russi Taylor,Mike Gabriel,1990
+The Rescuers Down Under,1990-11-16,Adventure,G,27931461.0,55796728.0,Percival C. McLeach,George C. Scott,Mike Gabriel,1990
+The Rescuers Down Under,1990-11-16,Adventure,G,27931461.0,55796728.0,Red,Peter Firth,Mike Gabriel,1990
+The Rescuers Down Under,1990-11-16,Adventure,G,27931461.0,55796728.0,Wilbur,John Candy,Mike Gabriel,1990
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Armoire,Jo Anne Worley,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Babette,Mary Kay Bergman,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Baker,Alex Murphey,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Beast,Robby Benson,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Belle,Paige O'Hara,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Bimbette,Kath Soucie,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Bookseller,Alvin Epstein,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Chef Bouche,Brian Cummings,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Chip Potts,Bradley Michael Pierce,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Cogsworth,David Ogden Stiers,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Fifi the Featherduster,Kimmy Robertson,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Gaston,Richard White,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Le Fou,Jesse Corti,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Lumière,Jerry Orbach,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Maurice,Rex Everhart,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Monsieur D'Arque,Tony Jay,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Mrs. Potts,Angela Lansbury,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Philippe the Horse,Hal Smith,Gary Trousdale,1991
+Beauty and the Beast,1991-11-13,Musical,G,218951625.0,363017667.0,Sultan the Footstool,Frank Welker,Gary Trousdale,1991
+Aladdin,1992-11-11,Comedy,G,217350219.0,441969178.0,Abu,Frank Welker,Ron Clements,1992
+Aladdin,1992-11-11,Comedy,G,217350219.0,441969178.0,Aladdin,Scott Weinger; Brad Kane,Ron Clements,1992
+Aladdin,1992-11-11,Comedy,G,217350219.0,441969178.0,Genie,Robin Williams,Ron Clements,1992
+Aladdin,1992-11-11,Comedy,G,217350219.0,441969178.0,Haroud Hazi Bin,James Avery,Ron Clements,1992
+Aladdin,1992-11-11,Comedy,G,217350219.0,441969178.0,Iago,Gilbert Gottfried,Ron Clements,1992
+Aladdin,1992-11-11,Comedy,G,217350219.0,441969178.0,Jafar,Jonathan Freeman,Ron Clements,1992
+Aladdin,1992-11-11,Comedy,G,217350219.0,441969178.0,Magic Carpet,Desconocido,Ron Clements,1992
+Aladdin,1992-11-11,Comedy,G,217350219.0,441969178.0,Mechanicles,Charlie Adler,Ron Clements,1992
+Aladdin,1992-11-11,Comedy,G,217350219.0,441969178.0,Mozenrath,Jonathan Brandis,Ron Clements,1992
+Aladdin,1992-11-11,Comedy,G,217350219.0,441969178.0,Princess Jasmine,Linda Larkin; Lea Salonga,Ron Clements,1992
+Aladdin,1992-11-11,Comedy,G,217350219.0,441969178.0,Rajah,Frank Welker,Ron Clements,1992
+Aladdin,1992-11-11,Comedy,G,217350219.0,441969178.0,Razoul,Jim Cummings,Ron Clements,1992
+Aladdin,1992-11-11,Comedy,G,217350219.0,441969178.0,Sadira,Kellie Martin,Ron Clements,1992
+Aladdin,1992-11-11,Comedy,G,217350219.0,441969178.0,The Sultan,Douglas Seale,Ron Clements,1992
+The Lion King,1994-06-15,Adventure,G,422780140.0,761640898.0,Banzai,Cheech Marin,Roger Allers,1994
+The Lion King,1994-06-15,Adventure,G,422780140.0,761640898.0,Ed,Jim Cummings,Roger Allers,1994
+The Lion King,1994-06-15,Adventure,G,422780140.0,761640898.0,Mufasa,James Earl Jones,Roger Allers,1994
+The Lion King,1994-06-15,Adventure,G,422780140.0,761640898.0,Nala,Moira Kelly; Niketa Calame,Roger Allers,1994
+The Lion King,1994-06-15,Adventure,G,422780140.0,761640898.0,Pumbaa,Ernie Sabella,Roger Allers,1994
+The Lion King,1994-06-15,Adventure,G,422780140.0,761640898.0,Rafiki,Robert Guillaume,Roger Allers,1994
+The Lion King,1994-06-15,Adventure,G,422780140.0,761640898.0,Sarabi,Madge Sinclair,Roger Allers,1994
+The Lion King,1994-06-15,Adventure,G,422780140.0,761640898.0,Sarafina,Zoe Leader,Roger Allers,1994
+The Lion King,1994-06-15,Adventure,G,422780140.0,761640898.0,Scar,Jeremy Irons,Roger Allers,1994
+The Lion King,1994-06-15,Adventure,G,422780140.0,761640898.0,Shenzi,Whoopi Goldberg,Roger Allers,1994
+The Lion King,1994-06-15,Adventure,G,422780140.0,761640898.0,Simba,Jonathan Taylor Thomas,Roger Allers,1994
+The Lion King,1994-06-15,Adventure,G,422780140.0,761640898.0,Simba,Matthew Broderick,Roger Allers,1994
+The Lion King,1994-06-15,Adventure,G,422780140.0,761640898.0,Timon,Nathan Lane,Roger Allers,1994
+The Lion King,1994-06-15,Adventure,G,422780140.0,761640898.0,Zazu,Rowan Atkinson,Roger Allers,1994
+A Goofy Movie,1995-04-07,Comedy,G,35336439.0,68479579.0,Powerline,Tevin Campbell,Desconocido,1995
+A Goofy Movie,1995-04-07,Comedy,G,35336439.0,68479579.0,Principal Mazur,Wallace Shawn,Desconocido,1995
+A Goofy Movie,1995-04-07,Comedy,G,35336439.0,68479579.0,"Robert ""Bobby"" Zimmeruski",Pauly Shore,Desconocido,1995
+A Goofy Movie,1995-04-07,Comedy,G,35336439.0,68479579.0,Roxanne,Kellie Martin,Desconocido,1995
+Pocahontas,1995-06-10,Adventure,G,141579773.0,274370957.0,Ben,Billy Connolly,Mike Gabriel,1995
+Pocahontas,1995-06-10,Adventure,G,141579773.0,274370957.0,Captain John Smith,Mel Gibson,Mike Gabriel,1995
+Pocahontas,1995-06-10,Adventure,G,141579773.0,274370957.0,Chief Powhatan,Russell Means,Mike Gabriel,1995
+Pocahontas,1995-06-10,Adventure,G,141579773.0,274370957.0,Flit,Frank Welker,Mike Gabriel,1995
+Pocahontas,1995-06-10,Adventure,G,141579773.0,274370957.0,Governor John Ratcliffe,David Ogden Stiers,Mike Gabriel,1995
+Pocahontas,1995-06-10,Adventure,G,141579773.0,274370957.0,Grandmother Willow,Linda Hunt,Mike Gabriel,1995
+Pocahontas,1995-06-10,Adventure,G,141579773.0,274370957.0,Kekata the Medicine man,Gordon Tootoosis,Mike Gabriel,1995
+Pocahontas,1995-06-10,Adventure,G,141579773.0,274370957.0,Kocoum,James Apaumut Fall,Mike Gabriel,1995
+Pocahontas,1995-06-10,Adventure,G,141579773.0,274370957.0,Meeko,John Kassir,Mike Gabriel,1995
+Pocahontas,1995-06-10,Adventure,G,141579773.0,274370957.0,Nakoma,Michelle St. John,Mike Gabriel,1995
+Pocahontas,1995-06-10,Adventure,G,141579773.0,274370957.0,Percy,Danny Mann,Mike Gabriel,1995
+Pocahontas,1995-06-10,Adventure,G,141579773.0,274370957.0,Pocahontas,Irene Bedard; Judy Kuhn,Mike Gabriel,1995
+Pocahontas,1995-06-10,Adventure,G,141579773.0,274370957.0,Thomas,Christian Bale,Mike Gabriel,1995
+Pocahontas,1995-06-10,Adventure,G,141579773.0,274370957.0,Wiggins,David Ogden Stiers,Mike Gabriel,1995
+The Hunchback of Notre Dame,1996-06-21,Adventure,G,100138851.0,190988799.0,Achilles,Desconocido,Gary Trousdale,1996
+The Hunchback of Notre Dame,1996-06-21,Adventure,G,100138851.0,190988799.0,The Archdeacon,David Ogden Stiers,Gary Trousdale,1996
+The Hunchback of Notre Dame,1996-06-21,Adventure,G,100138851.0,190988799.0,Captain Phoebus,Kevin Kline,Gary Trousdale,1996
+The Hunchback of Notre Dame,1996-06-21,Adventure,G,100138851.0,190988799.0,Clopin Trouillefou,Paul Kandel,Gary Trousdale,1996
+The Hunchback of Notre Dame,1996-06-21,Adventure,G,100138851.0,190988799.0,Djali,Desconocido,Gary Trousdale,1996
+The Hunchback of Notre Dame,1996-06-21,Adventure,G,100138851.0,190988799.0,Esmeralda,Demi Moore,Gary Trousdale,1996
+The Hunchback of Notre Dame,1996-06-21,Adventure,G,100138851.0,190988799.0,Hugo,Jason Alexander,Gary Trousdale,1996
+The Hunchback of Notre Dame,1996-06-21,Adventure,G,100138851.0,190988799.0,Judge Claude Frollo,Tony Jay,Gary Trousdale,1996
+The Hunchback of Notre Dame,1996-06-21,Adventure,G,100138851.0,190988799.0,Laverne,Mary Wickes,Gary Trousdale,1996
+The Hunchback of Notre Dame,1996-06-21,Adventure,G,100138851.0,190988799.0,Quasimodo,Tom Hulce,Gary Trousdale,1996
+The Hunchback of Notre Dame,1996-06-21,Adventure,G,100138851.0,190988799.0,Victor,Charles Kimbrough,Gary Trousdale,1996
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Alcmene,Barbara Barrie,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Amphitryon,Hal Holbrook,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Apollo,Keith David,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Atropos,Paddi Edwards,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Calliope,Lillias White,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Clio,Vanéese Y. Thomas,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Clotho,Amanda Plummer,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Demetrius,Wayne Knight,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Hades,James Woods,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Hera,Samantha Eggar,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Hercules,Tate Donovan; Joshua Keaton,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Hermes,Paul Shaffer,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Lachesis,Carole Shelley,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Megara,Susan Egan,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Melpomene,Cheryl Freeman,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Nessus,Jim Cummings,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Pain and Panic,Bobcat Goldthwait; Matt Frewer,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Pegasus,Frank Welker,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Philoctetes,Danny DeVito,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Terpsichore,LaChanze,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Thalia,Roz Ryan,Ron Clements,1997
+Hercules,1997-06-13,Adventure,G,99112101.0,182029412.0,Zeus,Rip Torn,Ron Clements,1997
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,Chi-Fu,James Hong,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,Chien-Po,Jerry Tondo,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,Cri-Kee,Desconocido,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,Emperor of China,Pat Morita,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,Fa Li,Freda Foh Shen,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,Fa Zhou,Soon-Tek Oh,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,First Ancestor Fa,George Takei,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,General Li,James Shigeta,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,Grandmother Fa,June Foray,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,Li Shang,B.D. Wong,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,Ling,Gedde Watanabe,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,The Matchmaker,Miriam Margoyles,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,Mulan,Ming-Na Wen; Lea Salonga,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,Mushu,Eddie Murphy,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,Shan Yu,Miguel Ferrer,Barry Cook,1998
+Mulan,1998-06-19,Adventure,G,120620254.0,216807832.0,Yao,Harvey Fierstein,Barry Cook,1998
+Tarzan,1999-06-16,Adventure,G,171091819.0,283900254.0,Archimedes Q. Porter,Nigel Hawthorne,Chris Buck,1999
+Tarzan,1999-06-16,Adventure,G,171091819.0,283900254.0,Clayton,Brian Blessed,Chris Buck,1999
+Tarzan,1999-06-16,Adventure,G,171091819.0,283900254.0,Jane Porter,Minnie Driver,Chris Buck,1999
+Tarzan,1999-06-16,Adventure,G,171091819.0,283900254.0,Kala,Glenn Close,Chris Buck,1999
+Tarzan,1999-06-16,Adventure,G,171091819.0,283900254.0,Kerchak,Lance Henriksen,Chris Buck,1999
+Tarzan,1999-06-16,Adventure,G,171091819.0,283900254.0,Mungo,Jason Marsden,Chris Buck,1999
+Tarzan,1999-06-16,Adventure,G,171091819.0,283900254.0,Tantor,Wayne Knight,Chris Buck,1999
+Tarzan,1999-06-16,Adventure,G,171091819.0,283900254.0,Tarzan,Tony Goldwyn,Chris Buck,1999
+Tarzan,1999-06-16,Adventure,G,171091819.0,283900254.0,Tarzan,Alex D. Linz,Chris Buck,1999
+Tarzan,1999-06-16,Adventure,G,171091819.0,283900254.0,Terk,Rosie O'Donnell,Chris Buck,1999
+Dinosaur,2000-05-19,Adventure,PG,137748063.0,215438985.0,Aladar,D. B. Sweeney,Ralph Zondag,2000
+Dinosaur,2000-05-19,Adventure,PG,137748063.0,215438985.0,Baylene,Joan Plowright,Ralph Zondag,2000
+Dinosaur,2000-05-19,Adventure,PG,137748063.0,215438985.0,Bruton,Peter Siragusa,Ralph Zondag,2000
+Dinosaur,2000-05-19,Adventure,PG,137748063.0,215438985.0,Eema,Della Reese,Ralph Zondag,2000
+Dinosaur,2000-05-19,Adventure,PG,137748063.0,215438985.0,Kron,Samuel E. Wright,Ralph Zondag,2000
+Dinosaur,2000-05-19,Adventure,PG,137748063.0,215438985.0,Neera,Julianna Margulies,Ralph Zondag,2000
+Dinosaur,2000-05-19,Adventure,PG,137748063.0,215438985.0,Plio,Alfre Woodard,Ralph Zondag,2000
+Dinosaur,2000-05-19,Adventure,PG,137748063.0,215438985.0,Suri,Hayden Panettiere,Ralph Zondag,2000
+Dinosaur,2000-05-19,Adventure,PG,137748063.0,215438985.0,Url,Desconocido,Ralph Zondag,2000
+Dinosaur,2000-05-19,Adventure,PG,137748063.0,215438985.0,Yar,Ossie Davis,Ralph Zondag,2000
+Dinosaur,2000-05-19,Adventure,PG,137748063.0,215438985.0,Zini,Max Casella,Ralph Zondag,2000
+The Emperor's New Groove,2000-12-15,Adventure,G,89296573.0,136789252.0,Bucky the Squirrel,Bob Bergen,Mark Dindal,2000
+The Emperor's New Groove,2000-12-15,Adventure,G,89296573.0,136789252.0,Chaca,Kellyann Kelso,Mark Dindal,2000
+The Emperor's New Groove,2000-12-15,Adventure,G,89296573.0,136789252.0,Chicha,Wendie Malick,Mark Dindal,2000
+The Emperor's New Groove,2000-12-15,Adventure,G,89296573.0,136789252.0,Kronk Pepikrankenitz,Patrick Warburton,Mark Dindal,2000
+The Emperor's New Groove,2000-12-15,Adventure,G,89296573.0,136789252.0,Kuzco,David Spade,Mark Dindal,2000
+The Emperor's New Groove,2000-12-15,Adventure,G,89296573.0,136789252.0,Pacha,John Goodman,Mark Dindal,2000
+The Emperor's New Groove,2000-12-15,Adventure,G,89296573.0,136789252.0,Tipo,Eli Russell Linnetz,Mark Dindal,2000
+The Emperor's New Groove,2000-12-15,Adventure,G,89296573.0,136789252.0,Yzma,Eartha Kitt,Mark Dindal,2000
+Atlantis: The Lost Empire,2001-06-08,Adventure,PG,84052762.0,125188122.0,Audrey Ramirez,Jacqueline Obradors,Gary Trousdale,2001
+Atlantis: The Lost Empire,2001-06-08,Adventure,PG,84052762.0,125188122.0,Commander Lyle Rourke,James Garner,Gary Trousdale,2001
+Atlantis: The Lost Empire,2001-06-08,Adventure,PG,84052762.0,125188122.0,Cookie,Jim Varney,Gary Trousdale,2001
+Atlantis: The Lost Empire,2001-06-08,Adventure,PG,84052762.0,125188122.0,Dr. Joshua Sweet,Phil Morris,Gary Trousdale,2001
+Atlantis: The Lost Empire,2001-06-08,Adventure,PG,84052762.0,125188122.0,Fenton Q. Harcourt,David Ogden Stiers,Gary Trousdale,2001
+Atlantis: The Lost Empire,2001-06-08,Adventure,PG,84052762.0,125188122.0,"Gaetan ""Mole"" Moliére",Corey Burton,Gary Trousdale,2001
+Atlantis: The Lost Empire,2001-06-08,Adventure,PG,84052762.0,125188122.0,Helga Sinclair,Claudia Christian,Gary Trousdale,2001
+Atlantis: The Lost Empire,2001-06-08,Adventure,PG,84052762.0,125188122.0,King Kashekim Nedakh,Leonard Nimoy,Gary Trousdale,2001
+Atlantis: The Lost Empire,2001-06-08,Adventure,PG,84052762.0,125188122.0,Milo Thatch,Michael J. Fox,Gary Trousdale,2001
+Atlantis: The Lost Empire,2001-06-08,Adventure,PG,84052762.0,125188122.0,Preston B. Whitmore,John Mahoney,Gary Trousdale,2001
+Atlantis: The Lost Empire,2001-06-08,Adventure,PG,84052762.0,125188122.0,Princess Kidagakash,Cree Summer,Gary Trousdale,2001
+Atlantis: The Lost Empire,2001-06-08,Adventure,PG,84052762.0,125188122.0,"Vincenzo ""Vinny"" Santorini",Don Novello,Gary Trousdale,2001
+Atlantis: The Lost Empire,2001-06-08,Adventure,PG,84052762.0,125188122.0,Wilhelmina Packard,Florence Stanley,Gary Trousdale,2001
+Lilo & Stitch,2002-06-21,Adventure,PG,145771527.0,211506702.0,Agent Wendy Pleakley,Kevin McDonald,Chris Sanders,2002
+Lilo & Stitch,2002-06-21,Adventure,PG,145771527.0,211506702.0,Cobra Bubbles,Ving Rhames,Chris Sanders,2002
+Lilo & Stitch,2002-06-21,Adventure,PG,145771527.0,211506702.0,David Kawena,Jason Scott Lee,Chris Sanders,2002
+Lilo & Stitch,2002-06-21,Adventure,PG,145771527.0,211506702.0,Dr. Jumba Jookiba,David Ogden Stiers,Chris Sanders,2002
+Lilo & Stitch,2002-06-21,Adventure,PG,145771527.0,211506702.0,Captain Gantu,Kevin Michael Richardson,Chris Sanders,2002
+Lilo & Stitch,2002-06-21,Adventure,PG,145771527.0,211506702.0,Grand Councilwoman,Zoe Caldwell,Chris Sanders,2002
+Lilo & Stitch,2002-06-21,Adventure,PG,145771527.0,211506702.0,Lilo Pelekai,Daveigh Chase,Chris Sanders,2002
+Lilo & Stitch,2002-06-21,Adventure,PG,145771527.0,211506702.0,Mrs. Hasagawa,Amy Hill,Chris Sanders,2002
+Lilo & Stitch,2002-06-21,Adventure,PG,145771527.0,211506702.0,Myrtle Edmonds,Miranda Paige Walls; Liliana Mumy,Chris Sanders,2002
+Lilo & Stitch,2002-06-21,Adventure,PG,145771527.0,211506702.0,Nani Pelekai,Tia Carrere,Chris Sanders,2002
+Lilo & Stitch,2002-06-21,Adventure,PG,145771527.0,211506702.0,Stitch,Chris Sanders,Chris Sanders,2002
+The Country Bears,2002-07-26,Adventure,G,16988996.0,24650121.0,Beary Barrington,Haley Joel Osment,Desconocido,2002
+The Country Bears,2002-07-26,Adventure,G,16988996.0,24650121.0,Big Al,James Gammon,Desconocido,2002
+The Country Bears,2002-07-26,Adventure,G,16988996.0,24650121.0,Dex Barrington,Justin Berfield,Desconocido,2002
+The Country Bears,2002-07-26,Adventure,G,16988996.0,24650121.0,Ted Betterhead,Diedrich Bader,Desconocido,2002
+Treasure Planet,2002-11-27,Adventure,PG,38120554.0,55189145.0,B.E.N.,Martin Short,Ron Clements,2002
+Treasure Planet,2002-11-27,Adventure,PG,38120554.0,55189145.0,Billy Bones,Patrick McGoohan,Ron Clements,2002
+Treasure Planet,2002-11-27,Adventure,PG,38120554.0,55189145.0,Captain Amelia,Emma Thompson,Ron Clements,2002
+Treasure Planet,2002-11-27,Adventure,PG,38120554.0,55189145.0,Dr. Doppler,David Hyde Pierce,Ron Clements,2002
+Treasure Planet,2002-11-27,Adventure,PG,38120554.0,55189145.0,Hands,Micheal McShane,Ron Clements,2002
+Treasure Planet,2002-11-27,Adventure,PG,38120554.0,55189145.0,Jim Hawkins,Joseph Gordon-Levitt,Ron Clements,2002
+Treasure Planet,2002-11-27,Adventure,PG,38120554.0,55189145.0,John Silver,Brian Murray,Ron Clements,2002
+Treasure Planet,2002-11-27,Adventure,PG,38120554.0,55189145.0,Morph,Dane A. Davis,Ron Clements,2002
+Treasure Planet,2002-11-27,Adventure,PG,38120554.0,55189145.0,Mr. Arrow,Roscoe Lee Browne,Ron Clements,2002
+Treasure Planet,2002-11-27,Adventure,PG,38120554.0,55189145.0,Onus,Corey Burton,Ron Clements,2002
+Treasure Planet,2002-11-27,Adventure,PG,38120554.0,55189145.0,Sarah Hawkins,Laurie Metcalf,Ron Clements,2002
+Treasure Planet,2002-11-27,Adventure,PG,38120554.0,55189145.0,Scroop,Michael Wincott,Ron Clements,2002
+Brother Bear,2003-10-24,Adventure,G,85336277.0,119218333.0,Denahi,Jason Raize,Robert Walker,2003
+Brother Bear,2003-10-24,Adventure,G,85336277.0,119218333.0,Kenai,Joaquin Phoenix,Robert Walker,2003
+Brother Bear,2003-10-24,Adventure,G,85336277.0,119218333.0,Koda,Jeremy Suarez,Robert Walker,2003
+Brother Bear,2003-10-24,Adventure,G,85336277.0,119218333.0,Rutt and Tuke,Rick Moranis; Dave Thomas,Robert Walker,2003
+Brother Bear,2003-10-24,Adventure,G,85336277.0,119218333.0,Sitka,D. B. Sweeney,Robert Walker,2003
+Brother Bear,2003-10-24,Adventure,G,85336277.0,119218333.0,Tanana,Joan Copeland,Robert Walker,2003
+Brother Bear,2003-10-24,Adventure,G,85336277.0,119218333.0,Tug,Michael Clarke Duncan,Robert Walker,2003
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Alameda Slim,Randy Quaid,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Audrey the Chicken,Estelle Harris,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Buck,Cuba Gooding Jr.,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Grace,Jennifer Tilly,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Jeb the Goat,Joe Flaherty,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Junior the Buffalo,Lance LeGault,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Larry the Duck,Marshall Efron,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Lucky Jack,Charles Haid,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Maggie,Roseanne Barr,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Mrs. Calloway,Judi Dench,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Ollie the Pig,Charlie Dell,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Pearl Gesner,Carole Cook,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Rico,Charles Dennis,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Rusty the Dog,G.W. Bailey,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Sam the Sheriff,Richard Riehle,Will Finn,2004
+Home on the Range,2004-04-02,Comedy,PG,50026353.0,67910166.0,Wesley,Steve Buscemi,Will Finn,2004
+Pooh's Heffalump Movie,2005-02-11,Adventure,G,18098433.0,23801835.0,Lumpy the Heffalump,Kyle Stanger,Desconocido,2005
+Chicken Little,2005-11-04,Adventure,G,135386665.0,177954661.0,Abby Mallard,Joan Cusack,Mark Dindal,2005
+Chicken Little,2005-11-04,Adventure,G,135386665.0,177954661.0,Buck Cluck,Garry Marshall,Mark Dindal,2005
+Chicken Little,2005-11-04,Adventure,G,135386665.0,177954661.0,Chicken Little,Zach Braff,Mark Dindal,2005
+Chicken Little,2005-11-04,Adventure,G,135386665.0,177954661.0,Fish Out of Water,Dan Molina,Mark Dindal,2005
+Chicken Little,2005-11-04,Adventure,G,135386665.0,177954661.0,Foxy Loxy,Amy Sedaris,Mark Dindal,2005
+Chicken Little,2005-11-04,Adventure,G,135386665.0,177954661.0,Goosey Loosey,Mark Walton,Mark Dindal,2005
+Chicken Little,2005-11-04,Adventure,G,135386665.0,177954661.0,Kirby,Sean Elmore,Mark Dindal,2005
+Chicken Little,2005-11-04,Adventure,G,135386665.0,177954661.0,Melvin,Fred Willard,Mark Dindal,2005
+Chicken Little,2005-11-04,Adventure,G,135386665.0,177954661.0,Morcupine Porcupine,Mark Dindal,Mark Dindal,2005
+Chicken Little,2005-11-04,Adventure,G,135386665.0,177954661.0,Mr. Woolensworth,Patrick Stewart,Mark Dindal,2005
+Chicken Little,2005-11-04,Adventure,G,135386665.0,177954661.0,Runt of the Litter,Steve Zahn,Mark Dindal,2005
+Chicken Little,2005-11-04,Adventure,G,135386665.0,177954661.0,Tina,Catherine O'Hara,Mark Dindal,2005
+Chicken Little,2005-11-04,Adventure,G,135386665.0,177954661.0,Turkey Lurkey,Don Knotts,Mark Dindal,2005
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Bowler Hat Guy,Stephen J. Anderson,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Carl the Robot,Harland Williams,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Cornelius Robinson,Tom Selleck,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Doris,Ethan Sandler,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Frankie the Frog,Aurian Redson,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Franny Robinson,Nicole Sullivan,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Goob,Matthew Josten,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Lefty,Nathan Greno,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Lewis,Jordan Fry,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Lizzy,Tracey Miller-Zarneke,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Lucille Krunklehorn,Laurie Metcalf,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Mildred,Angela Bassett,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Mr. Willerstein,Tom Kenny,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Tiny,Joe Mateo,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Uncle Art,Adam West,Stephen J. Anderson,2007
+Meet the Robinsons,2007-03-30,Adventure,G,97822171.0,119860589.0,Wilbur Robinson,Wesley Singerman,Stephen J. Anderson,2007
+Enchanted,2007-11-21,Romantic Comedy,PG,127706877.0,156074310.0,Giselle,Amy Adams,Desconocido,2007
+Enchanted,2007-11-21,Romantic Comedy,PG,127706877.0,156074310.0,Nancy Tremaine,Idina Menzel,Desconocido,2007
+Enchanted,2007-11-21,Romantic Comedy,PG,127706877.0,156074310.0,Nathaniel,Timothy Spall,Desconocido,2007
+Enchanted,2007-11-21,Romantic Comedy,PG,127706877.0,156074310.0,Pip,Jeff Bennett; Kevin Lima,Desconocido,2007
+Enchanted,2007-11-21,Romantic Comedy,PG,127706877.0,156074310.0,Prince Edward,James Marsden,Desconocido,2007
+Enchanted,2007-11-21,Romantic Comedy,PG,127706877.0,156074310.0,Queen Narissa,Susan Sarandon,Desconocido,2007
+Bolt,2008-11-21,Comedy,PG,114053759.0,133702498.0,The Agent,Greg Germann,Chris Williams,2008
+Bolt,2008-11-21,Comedy,PG,114053759.0,133702498.0,Blake,Nick Swardson,Chris Williams,2008
+Bolt,2008-11-21,Comedy,PG,114053759.0,133702498.0,Bolt,John Travolta,Chris Williams,2008
+Bolt,2008-11-21,Comedy,PG,114053759.0,133702498.0,The Director,James Lipton,Chris Williams,2008
+Bolt,2008-11-21,Comedy,PG,114053759.0,133702498.0,Dr. Calico,Malcolm McDowell,Chris Williams,2008
+Bolt,2008-11-21,Comedy,PG,114053759.0,133702498.0,Dr. Forrester,Ronn Moss,Chris Williams,2008
+Bolt,2008-11-21,Comedy,PG,114053759.0,133702498.0,Mindy,Kari Wahlgren,Chris Williams,2008
+Bolt,2008-11-21,Comedy,PG,114053759.0,133702498.0,Mittens,Susie Essman,Chris Williams,2008
+Bolt,2008-11-21,Comedy,PG,114053759.0,133702498.0,Penny's Mom,Grey DeLisle,Chris Williams,2008
+Bolt,2008-11-21,Comedy,PG,114053759.0,133702498.0,Penny,Miley Cyrus,Chris Williams,2008
+Bolt,2008-11-21,Comedy,PG,114053759.0,133702498.0,Rhino,Mark Walton,Chris Williams,2008
+Bolt,2008-11-21,Comedy,PG,114053759.0,133702498.0,Thug,Randy Savage,Chris Williams,2008
+Bolt,2008-11-21,Comedy,PG,114053759.0,133702498.0,Veteran Cat,Diedrich Bader,Chris Williams,2008
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Buford the Cook,Michael Colyar,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Charlotte La Bouff,Jennifer Cody,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Cousin Randy,Randy Newman,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Dr. Facilier,Keith David,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,"Eli ""Big Daddy"" La Bouff",John Goodman,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Eudora,Oprah Winfrey,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Evangaline,Desconocido,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Harvey Fenner,Corey Burton,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Henry Fenner,Jerry Kernion,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Ian the Alligator,Kevin Michael Richardson,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Lawrence the Valet,Peter Bartlett,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Louis the Alligator,Michael-Leon Wooley,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Mama Odie,Jenifer Lewis,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Marlon the Alligator,Emeril Lagasse,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Prince Naveen,Bruno Campos,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Ray the Firefly,Jim Cummings,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Tiana,Anika Noni Rose,Ron Clements,2009
+The Princess and the Frog,2009-11-25,Adventure,G,104400899.0,116316457.0,Two Fingers,Paul Briggs,Ron Clements,2009
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,Alice,Kathryn Beaumont,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,Alice's Sister,Heather Angel,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,Bill the Lizard,Larry Grey,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,The Carpenter,J. Pat O'Malley,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,The Caterpillar,Richard Haydn,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,Cheshire Cat,Sterling Holloway,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,Dinah the Cat,Desconocido,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,The Dodo,Bill Thompson,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,The Doorknob,Joseph Kearns,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,The Dormouse,Jimmy MacDonald,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,The King of Hearts,Dink Trout,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,Mad Hatter,Ed Wynn,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,March Hare,Jerry Colonna,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,The Queen of Hearts,Verna Felton,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,The Rose,Doris Lloyd,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,Tweedledum and Tweedledee,J. Pat O'Malley,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,The Walrus,J. Pat O'Malley,Clyde Geronimi,2010
+Alice in Wonderland,2010-03-05,Adventure,PG,334191110.0,357063499.0,White Rabbit,Bill Thompson,Clyde Geronimi,2010
+Tangled,2010-11-24,Adventure,PG,200821936.0,214388548.0,Flynn Rider,Zachary Levi,Nathan Greno,2010
+Tangled,2010-11-24,Adventure,PG,200821936.0,214388548.0,Hook Hand,Brad Garrett,Nathan Greno,2010
+Tangled,2010-11-24,Adventure,PG,200821936.0,214388548.0,Maximus,Desconocido,Nathan Greno,2010
+Tangled,2010-11-24,Adventure,PG,200821936.0,214388548.0,Mother Gothel,Donna Murphy,Nathan Greno,2010
+Tangled,2010-11-24,Adventure,PG,200821936.0,214388548.0,Pascal,Frank Welker,Nathan Greno,2010
+Tangled,2010-11-24,Adventure,PG,200821936.0,214388548.0,Rapunzel,Mandy Moore,Nathan Greno,2010
+Tangled,2010-11-24,Adventure,PG,200821936.0,214388548.0,Stabbington Brothers,Ron Perlman,Nathan Greno,2010
+Tron: Legacy,2010-12-17,Adventure,PG,172062763.0,183619259.0,Sam Flynn,Garrett John Hedlund,Desconocido,2010
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Adorabeezle Winterpop,Desconocido,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Candlehead,Katie Lowes,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Crumbelina DiCaramello,Cymbre Walk,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Duncan,Horatio Sanz,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Fix-It Felix Jr.,Jack McBrayer,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,General Hologram,Dennis Haysbert,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Gloyd Orangeboar,Desconocido,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Jubileena Bing-Bing,Josie Trinidad,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,King Candy/Turbo,Alan Tudyk,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Mr. Litwak,Ed O'Neill,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Markowski,Joe Lo Truglio,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Minty Zaki,Desconocido,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Rancis Fluggerbutter,Jamie Elman,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Sergeant Calhoun,Jane Lynch,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Snowanna Rainbeau,Desconocido,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Sour Bill,Rich Moore,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,"Swizzle ""The Swizz"" Malarkey",Desconocido,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Taffyta Muttonfudge,Mindy Kaling,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Vanellope von Schweetz,Sarah Silverman,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Wreck-It Ralph,John C. Reilly,Rich Moore,2012
+Wreck-It Ralph,2012-11-02,Adventure,PG,189412677.0,200354959.0,Wynchel,Adam Carolla,Rich Moore,2012
+Frozen,2013-11-22,Adventure,PG,400738009.0,414997174.0,Anna,Kristen Bell,Chris Buck,2013
+Frozen,2013-11-22,Adventure,PG,400738009.0,414997174.0,Duke of Weselton,Alan Tudyk,Chris Buck,2013
+Frozen,2013-11-22,Adventure,PG,400738009.0,414997174.0,Elsa,Idina Menzel,Chris Buck,2013
+Frozen,2013-11-22,Adventure,PG,400738009.0,414997174.0,Kristoff,Jonathan Groff,Chris Buck,2013
+Frozen,2013-11-22,Adventure,PG,400738009.0,414997174.0,Oaken,Chris Williams,Chris Buck,2013
+Frozen,2013-11-22,Adventure,PG,400738009.0,414997174.0,Olaf,Josh Gad,Chris Buck,2013
+Frozen,2013-11-22,Adventure,PG,400738009.0,414997174.0,Prince Hans,Santino Fontana,Chris Buck,2013
+Frozen,2013-11-22,Adventure,PG,400738009.0,414997174.0,Sven,Desconocido,Chris Buck,2013
+Big Hero 6,2014-11-07,Adventure,PG,222527828.0,229249222.0,Tadashi Hamada,Daniel Henney,Don Hall,2014
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Assistant Mayor Dawn Bellwether,Jenny Slate,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Benjamin Clawhauser,Nate Torrence,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Bonnie Hopps,Bonnie Hunt,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Bucky Oryx-Antlerson,Byron Howard,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Chief Bogo,Idris Elba,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Doug Ramses,Rich Moore,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Duke Weaselton,Alan Tudyk,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Emmitt Otterton,Desconocido,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Finnick,"Tommy ""Tiny"" Lister Jr.",Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Flash Slothmore,Raymond S. Persi,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Gazelle,Shakira,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Jerry Jumbeaux Jr.,John DiMaggio,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Jesse the Ram,John DiMaggio,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Judy Hopps,Ginnifer Goodwin,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Mayor Lionheart,J.K. Simmons,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Mr. Big,Maurice LaMarche,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Mrs. Otterton,Octavia Spencer,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,"Nicholas ""Nick"" P. Wilde",Jason Bateman,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Pronk Oryx-Antlerson,Jared Bush,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Stu Hopps,Don Lake,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Woolter the Ram,John DiMaggio,Byron Howard,2016
+Zootopia,2016-03-04,Adventure,PG,341268248.0,341268248.0,Yax,Tommy Chong,Byron Howard,2016
+Moana,2016-11-23,Adventure,PG,246082029.0,246082029.0,Gramma Tala,Rachel House,Ron Clements,2016
+Moana,2016-11-23,Adventure,PG,246082029.0,246082029.0,Heihei the Rooster,Alan Tudyk,Ron Clements,2016
+Moana,2016-11-23,Adventure,PG,246082029.0,246082029.0,Maui,Dwayne Johnson,Ron Clements,2016
+Moana,2016-11-23,Adventure,PG,246082029.0,246082029.0,Moana Waialiki,Auli'i Cravalho,Ron Clements,2016
+Moana,2016-11-23,Adventure,PG,246082029.0,246082029.0,Pua,Desconocido,Ron Clements,2016
+Moana,2016-11-23,Adventure,PG,246082029.0,246082029.0,Tamatoa,Jemaine Clement,Ron Clements,2016
+Moana,2016-11-23,Adventure,PG,246082029.0,246082029.0,Tui Waialiki,Temuera Morrison,Ron Clements,2016
+The Many Adventures of Winnie the Pooh,1977-03-11,Desconocido,Desconocido,0.0,0.0,Desconocido,Desconocido,Wolfgang Reitherman,1977
+Winnie the Pooh,2011-07-15,Adventure,G,26692846.0,28375869.0,Desconocido,Desconocido,Stephen J. Anderson,2011
+>>>>>>> 11cdd0ad04bf143d4572352a8d4469f6e38966cd
