@@ -1,62 +1,37 @@
-<<<<<<< HEAD
-# Disney Movies Analysis
-This project started after diving deep into the dataset used on datacamp.com for this guided project https://www.datacamp.com/projects/740 Disney Movies and Box Office Success I wanted to dive deep into the original dataset. From here I created the first notebook where I made an analysis of best-selling movies and most prolific directors, but more importantly discovering all the problems related to the reliability of the original dataset. The original dataset used in the datacamp exercise is a modified version of this https://data.world/kgarrett/disney-character-success-00-16 Basically the authors used import.io to scrape the data and build the dataset.
+## Disney Movies Analysis
+This project involves the analysis of Disney movies data, exploring various aspects such as voice actors, directors, revenues, and more. The analysis is carried out using the Python programming language and various libraries such as Pandas, Seaborn, and TPOT.
 
-The first consideration is about the best selling movies and can be found on this post on my blog http://www.lovabledata.com/probability-and-statistics/best-selling-disney-movies-from-1935-until-2016-python-business-analysis-with-code/
-The related notebook is DisneyMoviesAndDirectorsAnalysis.ipynb 
-I cleaned and merged three tables (1) Disney characters (2) box office success (3) annual gross income and plotted the results on a barplot with matplolib
+# Data Loading and Exploration
+The project starts by loading multiple datasets related to Disney movies, including information about voice actors, directors, revenue streams, and total gross. Initial exploration involves displaying the first few rows of each dataset and summarizing their characteristics.
 
-Other two notebook will be deployes.
-One always focused on DataViz will analyze ho changed through the time Dinsey Revenue Streams and the second one will analyze a pitfall that I think is present in the datacamp project.
+# Data Cleaning and Merging
+Data consistency is ensured by normalizing movie titles and checking for common titles across different datasets. The datasets are then merged based on movie titles, resulting in a consolidated dataset that includes information about voice actors, directors, and total gross revenue.
 
+# Data Preprocessing for Regression
+The dataset is cleaned and prepared for regression modeling. This involves handling missing values, normalizing and transforming data, and eliminating duplicates. The cleaned dataset is saved as a CSV file for further analysis.
 
-Note about the Revenue Streams Data. 
-From 2016 Disney Reports Changed the format of the main revenue streams.
+# Exploratory Data Analysis (EDA)
+Exploratory Data Analysis is performed using various visualizations to understand the distribution of total and inflation-adjusted gross revenue, total gross revenue by genre, and the trend of total gross revenue over time. Special attention is given to the years 1990-2000 to observe revenue peaks.
 
-In particular, the first change was between 2015 and 2016 in fact in 2016 they started aggregating "Consumer Products" and "Interactive". https://thewaltdisneycompany.com/app/uploads/q4-fy15-earnings.pdf
-https://thewaltdisneycompany.com/walt-disney-company-reports-fourth-quarter-full-year-earnings-fiscal-2017/
+# Univariate Analysis
+Univariate analysis is conducted for each column, including counts of movies by genre and MPAA rating, distribution of total and inflation-adjusted gross revenue, and counts of top characters, voice actors, and directors.
 
-Another change was made between 2018 and 2019. Here they changed the budget line "Parks and Resorts" into "Parks, Experiences and Products"
-https://thewaltdisneycompany.com/the-walt-disney-company-reports-fourth-quarter-and-full-year-earnings-for-fiscal-2019/
-# DisneyMoviesAnalysis
+# Multivariate Analysis
+Multivariate analysis explores the relationships between variables, such as total revenue by genre and MPAA rating, inflation-adjusted revenue by genre and MPAA rating, the relationship between total and inflation-adjusted revenue, and top directors' impact on total revenue.
 
-![The Walt Disney Company Revenues](https://github.com/uomodellamansarda/DisneyMoviesAnalysis/blob/main/DisneyRevenueAndreaCiufo.png)
-=======
-# Disney Movies Analysis
+# Contingency Tables
+Contingency tables are created to examine relationships between categorical variables. Tables are presented for genre and MPAA rating, character and voice actor, director and genre, and MPAA rating and release year.
 
-# Disney Movies and Box Office Success
+# Correlation Matrix
+A correlation matrix is generated to explore the relationships between numerical variables, providing insights into potential correlations between features.
 
-Este repositorio contiene un análisis detallado del rendimiento de las películas de Disney en la taquilla, con un enfoque en diversos factores como género, clasificación, personajes, actores de voz y directores.
+# Dataset Backup for Regression
+A backup of the dataset is created specifically for regression modeling. The dataset is exported to a CSV file for use in future regression analysis.
 
-## Contenido
+# Regression Modeling with TPOT
+A regression model is built using TPOT (Tree-based Pipeline Optimization Tool). The dataset is preprocessed, including one-hot encoding for categorical variables, and then split into training and testing sets. TPOT is employed to automatically discover the best regression pipeline, and the resulting model is evaluated.
 
-- **DisneyAnalytics.ipynb**: Cuaderno Jupyter principal que realiza el análisis.
-- **data/**: Carpeta que contiene los conjuntos de datos utilizados.
-- **models/**: Carpeta que almacena modelos o resultados relevantes.
+# Model Export
+The best regression pipeline identified by TPOT is exported for future use. The pipeline is saved as both a Python script (best_pipeline_for_regression.py) and a joblib file (model_pipeline.pkl).
 
-## Requisitos
-
-- Python 3
-- Jupyter Notebook
-- Bibliotecas de Python (puedes instalarlas mediante `pip install -r requirements.txt`)
-
-## Cómo ejecutar el cuaderno
-
-1. Clona este repositorio: `git clone https://github.com/Munchkinland/Disney-Movies-and-Box-Office-Success.git`
-2. Ve a la carpeta del repositorio: `cd Disney-Movies-and-Box-Office-Success`
-3. Instala las dependencias: `pip install -r requirements.txt`
-4. Abre el cuaderno Jupyter: `jupyter notebook DisneyAnalytics.ipynb`
-
-## Resultados
-
-Los resultados del análisis se encuentran en [Resultados y conclusiones](#Resultados-y-conclusiones) en el cuaderno Jupyter.
-
-## Contribuciones
-
-Siéntete libre de contribuir abriendo problemas o enviando solicitudes de extracción.
-
----
-
-**¡Disfruta explorando el mundo mágico de Disney!**
-
->>>>>>> e08d9f267812d9ab6fdfa288a6460fb78a2a0287
+This README provides an overview of the entire Disney Movies Analysis project, from data loading and exploration to regression modeling and model export. Further details and insights can be found within the project scripts and notebooks.
