@@ -1,0 +1,92 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+
+# 1. Load data
+gross = pd.read_csv(r"C:\Users\Rubén\Desktop\Disney-Movies-and-Box-Office-Success\data\raw\disney_movies_total_gross.csv", parse_dates=['release_date'])
+
+# Print out gross and check data types
+print(gross.head())
+print(gross.dtypes)
+
+# 2. Top 10 movies
+top_ten_movies = gross.sort_values('inflation_adjusted_gross', ascending=False).head(10)
+print(top_ten_movies)
+
+# 3. Movie genre trend
+# Convert 'release_date' to datetime and 'total_gross' and 'inflation_adjusted_gross' to numerical values
+gross['release_date'] = pd.to_datetime(gross['release_date'])
+gross['total_gross'] = gross['total_gross'].replace('[\$,]', '', regex=True).astype(float)
+gross['inflation_adjusted_gross'] = gross['inflation_adjusted_gross'].replace('[\$,]', '', regex=True).astype(float)
+
+# Calculate Top Ten Movies at the Box Office
+top_ten_movies = gross.sort_values(by='total_gross', ascending=False).head(10)
+
+# Calculate Movie Genre Trend
+genre_trend = gross.groupby([gross['release_date'].dt.year, 'genre']).size().unstack(fill_value=0)
+
+# Visualize Genre Popularity Trend
+plt.figure(figsize=(15, 8))
+for genre in genre_trend.columns:
+    plt.plot(genre_trend.index, genre_trend[genre], label=genre)
+
+plt.title('Movie Genre Popularity Trend (Disney Movies)')
+plt.xlabel('Year')
+plt.ylabel('Number of Movies Released')
+plt.legend(loc='upper left')
+plt.grid(True)
+plt.show()
+
+# Displaying the top ten movies and the last 10 years of genre trends
+print(top_ten_movies)
+print(genre_trend.tail(10))
+
+# Generate dummy variables for movie genres
+genre_dummies = pd.get_dummies(gross['genre'], drop_first=True)
+print(genre_dummies.head())
+
+# Build a linear regression model
+regr = LinearRegression()
+
+# Fit the model to the dataset
+regr.fit(genre_dummies, gross['inflation_adjusted_gross'])
+
+# Get estimated intercept and coefficient values
+action, adventure = regr.intercept_, regr.coef_[[0]][0]
+
+# Display the estimated intercept and coefficient values
+print((action, adventure))
+
+# Create an array of indices to sample from
+inds = np.arange(0, len(gross['genre']))
+
+# Initialize replicate arrays
+size = 500
+bs_action_reps = np.empty(size)
+bs_adventure_reps = np.empty(size)
+
+# Bootstrap sampling loop
+for i in range(size):
+    # Resample the indices
+    bs_inds = np.random.choice(inds, len(inds))
+
+    # Get the sampled genre and sampled adjusted gross
+    bs_genre = gross['genre'][bs_inds]
+    bs_gross = gross['inflation_adjusted_gross'][bs_inds]
+
+    # Convert sampled genre to dummy variables
+    bs_dummies = pd.get_dummies(bs_genre, drop_first=True)
+
+    # Build and fit a regression model
+    regr = LinearRegression().fit(bs_dummies, bs_gross)
+
+    # Compute replicates of estimated intercept and coefficient
+    bs_action_reps[i] = regr.intercept_
+    bs_adventure_reps[i] = regr.coef_[[0]][0]
+
+# Compute and inspect the confidence intervals
+confidence_interval_action = np.percentile(bs_action_reps, q=[2.5, 97.5])
+confidence_interval_adventure = np.percentile(bs_adventure_reps, q=[2.5, 97.5])
+print(confidence_interval_action)
+print(confidence_interval_adventure)
