@@ -1,5 +1,7 @@
 ## Disney Movies Analysis Project 🎬✨
 
+![_083fc026-20a3-4e42-aa70-7aa67a531466](https://github.com/Munchkinland/Disney-Movies-and-Box-Office-Success/assets/92251234/42c98dc6-a6e1-436f-b4f6-a8eb51963d79)
+
 Welcome to the thrilling world of Disney Movies! 🌟 In this project, we embark on an enchanting journey to uncover the magic behind Disney's cinematic universe. Buckle up as we dive into the data, explore fascinating insights, and even build a predictive model to forecast movie success. 🚀🔮
 
 Data Exploration and Fusion 📊🧩
